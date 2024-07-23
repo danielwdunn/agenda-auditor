@@ -1,0 +1,18 @@
+{
+    "site_to_scrape": {
+        "url": "https://www.sitetoscrapehere.com/agendacenter"
+    },
+      "email": {
+        "smtp_server": "smtp.ionos.com",
+        "smtp_port": 465,
+        "user": "test@sender.net",
+        "password": "ENTERPASSWORDHERE",
+        "sender_email": "test@sender.net",
+        "receiver_email": "test@receiver.com",
+        "subject": "Agenda Auditor: Potential FOI Violation - Town of Hamden, CT"
+    },
+        "violation_parameters": {
+        "meetingminutes_days": 7,
+        "agenda_hours": 24
+    }
+}
